@@ -1,0 +1,1 @@
+alert('Éxito de conexión con MySQL');
